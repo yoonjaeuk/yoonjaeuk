@@ -21,6 +21,7 @@
 - TAVE - IT CLUB(2023.02 ~ 2023.08) & Winnig_Fund - Invest CLUB(2023.09 ~ 2023.12)
 - Fronted developer(2024.01 ~ 2024.02) Humintech in suwon
 - Shihan_securities/prodigital_academy(2024.03 ~)
+- Hana_securities/supporters(2024.03 ~)
 
 ### 🛠 Skills
 <p align="left">
