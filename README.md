@@ -4,7 +4,6 @@
 
 - 👋 Hi, I’m @yoonjaeuk
 - 👀 I’m interested in Programing & Finance
-- 🌱 I’m currently learning Visual C, Django, JAVA, MySQL, Md
 - 💞️ I’m Job Seeker which want to work at fintech field
 - 📫 How to reach me Just send a mail <egg.jasper09@naver.com>
 
@@ -22,6 +21,9 @@
 - Fronted developer(2024.01 ~ 2024.02) Humintech in suwon
 - Shihan_securities/prodigital_academy(2024.03 ~)
 - Hana_securities/supporters(2024.03 ~)
+
+### 🚩 Goal
+What I'm really interested in: Securities + What I'm really confident in: programming = Something_new(innovative fintech technology)
 
 ### 🛠 Skills
 <p align="left">
