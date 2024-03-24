@@ -11,7 +11,7 @@
 > Developer faithful to the basics
 
 1. Basic manner(Sincerity, responsibility, Team_work)
-2. For_customer(Developer who thinks customer-centered)
+2. For_customer(Developer who thinks customer-centered(Understanding Domains))
 3. CS-knowledge(Architecture, Network, OS, DB, Algorithm)
 
 ### 📕 Education & 💼Experience
