@@ -8,7 +8,7 @@
 - 💞️ I’m Job Seeker which want to work at fintech field
 - 📫 How to reach me Just send a mail <egg.jasper09@naver.com>
 
-### 🤟🏻 Final_vocabulary: Base
+### 🤟🏻 First_vocabulary: Base
 > Developer faithful to the basics
 
 1. Basic manner(Sincerity, responsibility, Team_work)
@@ -31,5 +31,11 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <!-- react -->
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <!-- mysql -->
 <img alt="firebase" src ="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"/> <!-- firebase -->
+</p>
 
+### ✉️ Contacts
+<p align="left">
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j___uk/)](https://www.instagram.com/j___uk/)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?&style=flat-square&logo=gmail&logoColor=white&link=mailto:jasper09@ajou.ac.kr)](mailto:jasper09@ajou.ac.kr)
+[![Velog](https://img.shields.io/badge/velog-20C997?&style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jasper09/)](https://velog.io/@jasper09/)
 </p>
