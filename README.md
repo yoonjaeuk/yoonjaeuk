@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @yoonjaeuk
 - 👀 I’m interested in Programing & Finance
-- 💞️ I’m Job Seeker which want to work at fintech field
+- 💰 I’m Job Seeker which want to work at fintech field
 - 📫 How to reach me Just send a mail <egg.jasper09@naver.com>
 
 ### 🤟🏻 First_vocabulary: Base
@@ -23,7 +23,7 @@
 - Hana_securities/supporters(2024.03 ~)
 
 ### 🚩 Goal
-What I'm really interested in: Securities + What I'm really confident in: programming = Something_new(innovative fintech technology)
+- What I'm really interested in: Securities + What I'm really confident in: programming = Something_new(innovative fintech technology)
 
 ### 🛠 Skills
 <p align="left">
