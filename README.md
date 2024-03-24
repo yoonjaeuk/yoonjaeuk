@@ -35,6 +35,9 @@
 
 ### ✉️ Contacts
 <p align="left">
+<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=python&logoColor=white"&link=https://www.instagram.com/j___uk/> <!-- instagram -->
+<img alt="django" src ="https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> <!-- django -->
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <!-- node.js -->
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j___uk/)](https://www.instagram.com/j___uk/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?&style=flat-square&logo=gmail&logoColor=white&link=mailto:jasper09@ajou.ac.kr)](mailto:jasper09@ajou.ac.kr)
 [![Velog](https://img.shields.io/badge/velog-20C997?&style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jasper09/)](https://velog.io/@jasper09/)
