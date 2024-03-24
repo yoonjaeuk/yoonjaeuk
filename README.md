@@ -36,4 +36,6 @@
 ### ✉️ Contacts
 <p align="left">
 <a href="https://www.instagram.com/j___uk/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j___uk/"/></a> 
+<a href="mailto:jasper09@ajou.ac.kr"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:jasper09@ajou.ac.kr"/></a>  
+<a href="https://velog.io/@jasper09"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jasper09/"/></a>   
 </p>
