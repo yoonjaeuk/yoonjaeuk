@@ -19,7 +19,7 @@
 - Ajou-university undergraduate research student(2022.03 ~ 2022.12) - Data visualization
 - TAVE - IT CLUB(2023.02 ~ 2023.08) & Winnig_Fund - Invest CLUB(2023.09 ~ 2023.12)
 - Fronted developer(2024.01 ~ 2024.02) Stamper in seoul
-- Shinhan_securities/(2024.03 ~)
+- Shinhan_securities(2024.03 ~)
 - Hana_securities/supporters(2024.03 ~)
 
 ### 🚩 Goal
