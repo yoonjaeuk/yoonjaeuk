@@ -27,7 +27,7 @@
 
 ### 🛠 Skills
 <p align="left">
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <!-- spring -->
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- python -->
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <!-- node.js -->
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <!-- mysql -->
