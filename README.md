@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <!-- python -->
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <!-- node.js -->
 <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"> <!-- mysql -->
-<img alt="Amazon Web Service" src="https://img.shields.io/badge/Amazon%20Web%20Service-232F3E.svg?&style=for-the-badge&logo=Amazon%20Web%20Service&logoColor=white"> <!-- Amazon Web Service -->
+<img alt="Amazon Web Service" src="https://img.shields.io/badge/Amazon Web Service-232F3E.svg?&style=for-the-badge&logo=Amazon Web Service&logoColor=white"> <!-- Amazon Web Service -->
 <img alt="firebase" src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"> <!-- firebase -->
 
 </p>
