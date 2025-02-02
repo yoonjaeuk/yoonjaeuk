@@ -15,7 +15,7 @@
 ### 📕 Education & 💼Experience
 - Ajou-university Software/Digital_media(2019.03 ~)
 - Ajou-university undergraduate research student(2022.03 ~ 2022.12) - Data visualization
-- TAVE - IT CLUB(2023.02 ~ 2023.08) & AFIA - Invest CLUB(2023.09 ~ 2023.12)
+- TAVE - IT CLUB(2023.02 ~ 2023.08) & AFIA - Invest CLUB(2023.09 ~ 2025.02)
 - Fronted developer(2024.01 ~ 2024.02) Stamper in seoul
 - Shinhan Securities ProDigital Academy (2024.03 ~ 2024.09)
 - Hana Securities HanaDream Supporters (2024.03 ~ 2024.07)
